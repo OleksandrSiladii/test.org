@@ -1,9 +1,17 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [{
-      "appID": "3GVTR57UW8.com.cygnati.sircorp",
-      "paths": ["[/bbZGmU]"]
-    }]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "3GVTR57UW8.com.cygnati.sircorp.beta.test",
+            "paths": ["/bbZGmU"]
+            },
+	    {
+            "appID": "3GVTR57UW8.com.cygnati.sircorp.beta",
+            "paths": ["/bbZGmU"]
+            },
+            {
+            "appID": "3GVTR57UW8.com.cygnati.sircorp",
+            "paths": ["/bbZGmU"]
+        }]
+    }
 }
